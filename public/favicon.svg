@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#D4A437"/>
+      <stop offset="50%" style="stop-color:#D4A437"/>
+      <stop offset="100%" style="stop-color:#19B5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="40" height="40" rx="10" fill="url(#grad)"/>
+  <text x="20" y="27" font-family="system-ui, sans-serif" font-size="20" font-weight="bold" fill="#071426" text-anchor="middle">Q</text>
+</svg>
